@@ -8,24 +8,37 @@ client.on('ready', () => {
 client.on("guildMemberAdd", member => {
   member.createDM().then(function (channel) {
   return channel.send(`**
-      حياك الله ي بعد راسي
-       خش بتنورنا فعاليات وكل شيء حلو موجود !
-        ي بعد عيني الرابط تحت
-         Spring SERVER
-
-                                 [ رابط سيرفرك ] **`)
+         *| best invite reword |*
+ **السلام عليكم :
+جبت لك نظام انفايت مختلف و اسطوري ان شاء الله يعجبكم
+1 -  جيب 5 لك 10 الاف كردت
+2 -  جيب 15 لك 30 الف كردت
+3 -  جيب 50 لك 100 الف كردت
+-------------_-
+#cmd الي يجيب العدد يروح شات
+new ويكتب **
+      Trees Community
+                                 [ https://discord.gg/4mMy4Xr ] **`)
 }).catch(console.error)
 })
 
 client.on("guildMemberRemove", member => {
   member.createDM().then(function (channel) {
   return channel.send(`**
-      حياك الله ي بعد راسي
-       خش بتنورنا فعاليات وكل شيء حلو موجود !
-        ي بعد عيني الرابط تحت
-         Spring SERVER
+      *| best invite reword |*
+ **السلام عليكم :
+جبت لك نظام انفايت مختلف و اسطوري ان شاء الله يعجبكم
+1 -  جيب 5 لك 10 الاف كردت
+2 -  جيب 15 لك 30 الف كردت
+3 -  جيب 50 لك 100 الف كردت
+-------------_-
+#cmd الي يجيب العدد يروح شات
+new ويكتب **
 
-                                 [ رابط سيرفرك ] **`)
+ 
+         Trees Community
+
+                                 [ https://discord.gg/4mMy4Xr ] **`)
 }).catch(console.error)
 })
-client.login('توكن البوت');
+client.login('NTA2ODQzNzA5Njk5MjYwNDI2.DsgvqQ.XJ81hsghK5SU3oC5OqFYLwddZYM');
